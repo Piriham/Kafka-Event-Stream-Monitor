@@ -1,0 +1,11 @@
+docs/
+.claude/
+*/build/
+*/.gradle/
+*/.idea/
+**/*.class
+node_modules/
+landing-page/build/
+*.DS_Store
+docs/
+.claude/
